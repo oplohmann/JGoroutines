@@ -6,10 +6,8 @@ import java.util.concurrent.TimeUnit;
 
 /**
  * Created with IntelliJ IDEA.
- * User: Nutzer
- * Date: 09.06.13
- * Time: 09:20
- * To change this template use File | Settings | File Templates.
+ * User: Oliver Plohmann
+ * Date: 09.06.2013
  */
 public interface AsyncUtils {
 

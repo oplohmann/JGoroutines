@@ -19,8 +19,7 @@ import java.util.function.Function;
 /**
  * Created with IntelliJ IDEA.
  * User: Oliver Plohmann
- * Date: 09.06.13
- * Time: 08:29
+ * Date: 09.06.2013
  */
 public class GoroutineTest implements AsyncUtils {
 
