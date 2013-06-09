@@ -1,4 +1,4 @@
-Sample code for blog Go-style Goroutines in Java using HawtDispatch
+Sample code for blog "Go-style Goroutines in Java using HawtDispatch"
 (http://objectscape.blogspot.de/2013/06/go-style-goroutines-in-java-using.html)
 
 Requires JDK8 (at least lambda-8-b92 downloadable from http://jdk8.java.net/lambda/).
