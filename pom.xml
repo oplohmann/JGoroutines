@@ -14,6 +14,10 @@
 
     <name>JGoroutines</name>
     <url>http://www.objectscape.org/</url>
+    <description>
+        Sample code for blog post "Go-style Goroutines in Java using HawtDispatch"
+        http://objectscape.blogspot.de/2013/06/go-style-goroutines-in-java-using.html
+    </description>
 
     <dependencies>
 
