@@ -2,5 +2,7 @@ Sample code for blog Go-style Goroutines in Java using HawtDispatch
 (http://objectscape.blogspot.de/2013/06/go-style-goroutines-in-java-using.html)
 
 Requires JDK8 (at least lambda-8-b92 downloadable from http://jdk8.java.net/lambda/).
-Currently NetBeans and Intellij IDEA support JDK8. I've been using IntelliJ IDEA and had no problems with it.
+Currently NetBeans and Intellij IDEA support JDK8. I've been using IntelliJ IDEA and
+had no problems with it.
+
 This file was modified by IntelliJ IDEA 12.0.4 for binding GitHub repository
